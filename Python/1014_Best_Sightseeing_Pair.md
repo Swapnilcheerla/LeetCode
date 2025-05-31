@@ -40,7 +40,8 @@ class Solution:
 ```
 
 # Dry Run
-       Index =  [0,1,2,3,4]
+
+-------Index =  [0,1,2,3,4]
 Input: values = [8,1,5,2,6]
 i=0
 maxleftscore=8
